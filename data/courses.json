@@ -7,7 +7,7 @@
         "title": "HTML, CSS, and Javascript for Web Developers",
         "skills": "HTML and CSS, Web Development",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today user expects a lot out of the web page."
+        "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -17,7 +17,7 @@
         "title": "Front-End Developer Professional Certificate",
         "skills": "Web Development, Computer Programming, Font-end developer",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ed/d25c0d25114924a34754928dbf8273/Front-end-dev-ProCert.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started."
+        "details": "Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
@@ -27,7 +27,7 @@
         "title": "Full-Stack Web Development with React Specialization",
         "skills": "Application Development, Cloud Computing, React",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "Build Complete Web and Hybrid Mobile Solutions. Master front-end web, hybrid mobile app and server-side development in three comprehensive courses.Learn front-end and hybrid mobile development,for implementing a multi-platform solution."
+        "details": "Build Complete Web and Hybrid Mobile Solutions. Master front-end web, hybrid mobile app and server-side development."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -37,7 +37,7 @@
         "title": "IBM Full Stack Software Developer Professional Certificate",
         "skills": "Cloud Computing,Web Development, IBM Cloud Computing",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects involving HTML, JavaScript, Node.js, Python, Django, Containers, Microservices and more. No prior experience required."
+        "details": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects."
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -47,7 +47,7 @@
         "title": "Build Your Portfolio Website with HTML and CSS",
         "skills": "HTML and CSS, Web Development",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/50/e8b3d0bd6e412386282c6ce667e28d/1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "This 1-hour long tutorial will take you step by step to create a portfolio website. You will learn the basic components of a website, and how to create simple contents using HTML (hypertext markup language) and CSS (cascading style sheets), and how to host it on a popular developer website called “GitHub” with your own subdomain name!"
+        "details": "This 1-hour long tutorial will take you step by step to create a portfolio website. You will learn the basic components."
     },
     {
         "_id": "0282e0e58a5c404fbd15261s09c2ab6f",
@@ -57,6 +57,6 @@
         "title": "Programming Foundations with JavaScript, HTML and CSS",
         "skills": "HTML and CSS,JavaScript, Web Development",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/79/40d8a60bae487c8b4c862f52e0f13d/dj4e_thumbnail_specialization.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
-        "details": "Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, learn basic web development as you build web pages using HTML, CSS, JavaScript. By the end of the course."
+        "details": "Learn foundational programming concepts functions, for loops, conditional statements and how to solve problems like."
     }
 ]

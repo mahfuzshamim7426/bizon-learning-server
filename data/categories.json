@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "HTML, CSS, and Javascript for Web Developers"
+    },
+    {
+        "id": "02",
+        "name": "Front-End Developer Professional Certificate"
+    },
+    {
+        "id": "03",
+        "name": "Full-Stack Web Development with React Specialization"
+    },
+    {
+        "id": "04",
+        "name": "IBM Full Stack Software Developer Professional Certificate"
+    },
+    {
+        "id": "05",
+        "name": "Build Your Portfolio Website with HTML and CSS"
+    },
+    {
+        "id": "06",
+        "name": "Programming Foundations with JavaScript, HTML and CSS"
+    }
+]

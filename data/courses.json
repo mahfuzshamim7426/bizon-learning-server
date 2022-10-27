@@ -4,10 +4,10 @@
         "category_id": "01",
         "total_purchase": 488,
         "mentor": "Alex Crumuger",
-        "title": "HTML, CSS, and Javascript for Web Developers",
+        "title": "HTML, CSS Fundamental for Developers",
         "skills": "HTML and CSS, Web Development",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
-        "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page."
+        "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -24,7 +24,7 @@
         "category_id": "03",
         "total_purchase": 298,
         "mentor": "Rase Mire",
-        "title": "Full-Stack Web Development with React Specialization",
+        "title": "Full-Stack Web Development with React",
         "skills": "Application Development, Cloud Computing, React",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
         "details": "Build Complete Web and Hybrid Mobile Solutions. Master front-end web, hybrid mobile app and server-side development."
@@ -34,7 +34,7 @@
         "category_id": "04",
         "total_purchase": 420,
         "mentor": "Alex Curry",
-        "title": "IBM Full Stack Software Developer Professional Certificate",
+        "title": "IBM Full Stack Software Developer Professional",
         "skills": "Cloud Computing,Web Development, IBM Cloud Computing",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
         "details": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects."
@@ -54,9 +54,9 @@
         "category_id": "06",
         "total_purchase": 299,
         "mentor": "Rale Vail",
-        "title": "Programming Foundations with JavaScript, HTML and CSS",
+        "title": "Programming Foundations with JavaScript",
         "skills": "HTML and CSS,JavaScript, Web Development",
         "thumbnail_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/79/40d8a60bae487c8b4c862f52e0f13d/dj4e_thumbnail_specialization.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
-        "details": "Learn foundational programming concepts functions, for loops, conditional statements and how to solve problems like."
+        "details": "Learn foundational programming concepts functions, for loops, conditional statements and how to solve."
     }
 ]
